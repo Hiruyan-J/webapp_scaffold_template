@@ -45,15 +45,15 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 
   # Debugger
-  gem 'byebug'
-  gem 'pry'
-  gem 'pry-byebug'
-  gem 'pry-doc'
-  gem 'pry-rails'
+  gem "byebug"
+  gem "pry"
+  gem "pry-byebug"
+  gem "pry-doc"
+  gem "pry-rails"
 
-    # Print debug
-  gem 'awesome_print'
-  gem 'tapp'
+  # Print debug
+  gem "awesome_print"
+  gem "tapp"
 end
 
 group :development do
